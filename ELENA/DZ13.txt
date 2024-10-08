@@ -1,0 +1,40 @@
+  986  cd group_190224-ptm/
+  987  ls -l
+  988  ls -la
+  989  cd 290724-ptm
+  990  cd group_290724-ptm
+  991  cd 290724-ptm
+  992  ls -l 290724-ptm
+  993  cd chumak
+  994  cd /chumak
+  995  cd chumak
+  996  cd ..
+  997  cd /opt/
+  998  ls -l
+  999  cd /
+ 1000  cd /opt/290724-ptm/ELENA
+ 1001  ls-l
+ 1002  ls -l
+ 1003  nano task_ELENA.sh
+ 1004  tar -tzvf mycrontabscr.tar.gz
+ 1005  chmod 744 mycrontabscr.tar.gz
+ 1006  tar -xzvf mycrontabscr.tar.gz
+ 1007  nano DZ13.txt
+ 1008  tar -xzvf mycrontabscr.tar.gz 
+ 1009  nano DZ13.txt
+ 1010  DZ13.txt | tail -50 > DZ13.txt
+ 1011  tail -n 50 DZ13.txt > DZ13.txt
+ 1012  nano DZ13.txt
+ 1013  history > DZ13.txt
+ 1014  nano DZ13.txt
+ 1015  ls -l
+ 1016  nano DZ13
+ 1017  nano task_ELENA.sh
+ 1018  crontab -l
+ 1019  crontab -e
+ 1020  ls -l
+ 1021  ./task_ELENA.sh
+ 1022  ls -l
+ 1023  crontab -e
+ 1024  tar -czvf archive_DZ13.tar.gz *.24
+ 1025  history | tail -n 40 > DZ13.txt
